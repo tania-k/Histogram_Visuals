@@ -1,0 +1,39 @@
+K-mer statistics for: 
+ - Hash 1: "Friedmanniomyces_endolithicus_1.fastq"
+ - Hash 2: "Friedmanniomyces_endolithicus_2.fastq"
+
+Total K-mers in: 
+ - Hash 1: 2640835595
+ - Hash 2: 2716054803
+
+Distinct K-mers in:
+ - Hash 1: 150776358
+ - Hash 2: 583655702
+
+Total K-mers only found in:
+ - Hash 1: 87303759
+ - Hash 2: 573598299
+
+Distinct K-mers only found in:
+ - Hash 1: 84099938
+ - Hash 2: 516979282
+
+Shared K-mers:
+ - Total shared found in hash 1: 2553531836
+ - Total shared found in hash 2: 2142456504
+ - Distinct shared K-mers: 66676420
+
+Distance between spectra 1 and 2 (all k-mers):
+ - Manhattan distance: 4.62768e+08
+ - Euclidean distance: 4.03984e+08
+ - Cosine distance: 0.00171042
+ - Canberra distance: 157.46
+ - Jaccard distance: 0.773084
+
+Distance between spectra 1 and 2 (shared k-mers):
+ - Manhattan distance: 3.56836e+07
+ - Euclidean distance: 5.47097e+06
+ - Cosine distance: 0.0258088
+ - Canberra distance: 176.683
+ - Jaccard distance: 0.4222
+

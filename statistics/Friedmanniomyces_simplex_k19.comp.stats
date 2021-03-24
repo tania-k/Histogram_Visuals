@@ -1,0 +1,39 @@
+K-mer statistics for: 
+ - Hash 1: "Friedmanniomyces_simplex_1.fastq"
+ - Hash 2: "Friedmanniomyces_simplex_2.fastq"
+
+Total K-mers in: 
+ - Hash 1: 1949895083
+ - Hash 2: 1957258342
+
+Distinct K-mers in:
+ - Hash 1: 122075032
+ - Hash 2: 287169116
+
+Total K-mers only found in:
+ - Hash 1: 67486196
+ - Hash 2: 242135495
+
+Distinct K-mers only found in:
+ - Hash 1: 65337883
+ - Hash 2: 230431967
+
+Shared K-mers:
+ - Total shared found in hash 1: 1882408887
+ - Total shared found in hash 2: 1715122847
+ - Distinct shared K-mers: 56737149
+
+Distance between spectra 1 and 2 (all k-mers):
+ - Manhattan distance: 1.73464e+08
+ - Euclidean distance: 1.57367e+08
+ - Cosine distance: 0.00117406
+ - Canberra distance: 129.749
+ - Jaccard distance: 0.595371
+
+Distance between spectra 1 and 2 (shared k-mers):
+ - Manhattan distance: 9.92362e+06
+ - Euclidean distance: 1.51117e+06
+ - Cosine distance: 0.00543708
+ - Canberra distance: 129.896
+ - Jaccard distance: 0.160839
+
